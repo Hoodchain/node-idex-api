@@ -1,0 +1,20 @@
+{
+  "name": "uws",
+  "version": "10.148.1",
+  "main": "uws.js",
+  "description": "Tiny WebSockets",
+  "engines": {
+    "node": ">=8"
+  },
+  "keywords": [
+    "tiny",
+    "websockets"
+  ],
+  "homepage": "https://github.com/uNetworking/uWebSockets",
+  "license": "Zlib",
+  "author": "Alex Hultman <alexhultman@gmail.com> (https://github.com/alexhultman)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uNetworking/uWebSockets.git"
+  }
+}
